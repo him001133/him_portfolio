@@ -18,7 +18,7 @@ A modern, responsive portfolio website designed for video editors to showcase th
 
 Open `index.html` and replace the placeholder content:
 
-- **Your Name**: Replace "YourName" in the logo and title
+- **Your Name**: Replace "Himanshu Mittal" with your actual name (already set)
 - **Hero Section**: Update the headline and subtitle
 - **Portfolio Items**: 
   - Replace YouTube video IDs in iframe `src` attributes

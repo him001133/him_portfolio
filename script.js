@@ -148,7 +148,7 @@ if (contactForm) {
 const footerYear = document.querySelector('.footer p');
 if (footerYear) {
     const currentYear = new Date().getFullYear();
-    footerYear.textContent = `© ${currentYear} Your Name. All rights reserved.`;
+    footerYear.textContent = `© ${currentYear} Himanshu Mittal. All rights reserved.`;
 }
 
 // Add hover effect to skill tags
